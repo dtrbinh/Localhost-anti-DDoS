@@ -11,3 +11,5 @@ This script use to protect your local host from DDoS by HTTP Flood
           
           pushd <link to file>
           py shield.py
+          
+"Iron Dome" for your local host!!!
